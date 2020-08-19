@@ -5,9 +5,9 @@ public class Assignment_day3 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.println(	"String1:");
+		System.out.println("String1:");
 		String in1 = scan.next();
-		System.out.println(	"String2:");
+		System.out.println("String2:");
 		String in2 = scan.next();
 		int length1 = in1.length();
 		int length2 = in2.length();
